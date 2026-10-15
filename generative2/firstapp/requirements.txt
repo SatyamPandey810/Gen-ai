@@ -1,0 +1,23 @@
+# LangChain
+langchain
+langchain-core
+
+# OpenAI
+langchain-openai
+openai
+
+# Anthropic
+langchain-anthropic
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+
+# ML / Data
+numpy
+scikit-learn
