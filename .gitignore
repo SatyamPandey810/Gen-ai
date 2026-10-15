@@ -149,3 +149,12 @@ vite.config.ts.timestamp-*
 .turbo
 .env
 
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
